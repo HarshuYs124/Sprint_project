@@ -1,0 +1,15 @@
+qa:
+  base_url: "https://practice.expandtesting.com/notes/app"
+  email: "yadavharshita.2401@gmail.com"
+  password: "Mickey@009"
+  category: "Work"
+  title: "pytest"
+  description: "It is a framework for testing in python"
+  invalid_email: "invalid@gmail.com"
+  invalid_password: "mickey"
+
+api:
+  base_url1: "https://practice.expandtesting.com/notes/api"
+#  token: "a3db5c4b87543bf9c7f2b9890957ca3"
+  email: "yadavharshita.2401@gmail.com"
+  password: "Mickey@009"

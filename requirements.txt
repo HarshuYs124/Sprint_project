@@ -1,0 +1,11 @@
+selenium
+pytest
+webdriver-manager
+openpyxl
+pyyaml
+requests>=2.31.0
+
+
+pytest-xdist    # Enables parallel execution (-n flag)
+pytest-html     # Required for standard HTML reports
+allure-pytest
